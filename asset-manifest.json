@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cryto-react-host-trial/static/css/main.248632ae.chunk.css",
+    "main.js": "/cryto-react-host-trial/static/js/main.f2bad5c3.chunk.js",
+    "main.js.map": "/cryto-react-host-trial/static/js/main.f2bad5c3.chunk.js.map",
+    "runtime-main.js": "/cryto-react-host-trial/static/js/runtime-main.c990a3fe.js",
+    "runtime-main.js.map": "/cryto-react-host-trial/static/js/runtime-main.c990a3fe.js.map",
+    "static/js/2.53b96caa.chunk.js": "/cryto-react-host-trial/static/js/2.53b96caa.chunk.js",
+    "static/js/2.53b96caa.chunk.js.map": "/cryto-react-host-trial/static/js/2.53b96caa.chunk.js.map",
+    "index.html": "/cryto-react-host-trial/index.html",
+    "static/css/main.248632ae.chunk.css.map": "/cryto-react-host-trial/static/css/main.248632ae.chunk.css.map",
+    "static/js/2.53b96caa.chunk.js.LICENSE.txt": "/cryto-react-host-trial/static/js/2.53b96caa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c990a3fe.js",
+    "static/js/2.53b96caa.chunk.js",
+    "static/css/main.248632ae.chunk.css",
+    "static/js/main.f2bad5c3.chunk.js"
+  ]
+}
